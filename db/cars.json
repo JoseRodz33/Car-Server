@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5d600b2d-5cae-4f31-9f4b-9d691e825efc",
+    "make": "Nissan",
+    "model": "Skyline 2000",
+    "mileage": "12000",
+    "color": "Chrome"
+  },
+  {
+    "id": "8b4d6ecb-e4c8-425c-9307-3adf54e36ee5",
+    "make": "Mitsubishi",
+    "model": "EVO",
+    "mileage": "1900",
+    "color": "Red"
+  },
+  {
+    "id": "24ade0c5-6085-4f3b-bfca-5e39f91844d7",
+    "make": "Mitsubishi",
+    "model": "EVO",
+    "mileage": "19000",
+    "color": "Red"
+  }
+]
