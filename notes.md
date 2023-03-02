@@ -131,5 +131,7 @@ const DB_URL = process.env.DB_URL
 
 mongoose
   .connect(DB_URL, {
-    // Changes how it 
+    // Changes how it parses the connection string
+    useNewUrlParser: true,
+    // Deprecates old ability to reconnect
   })

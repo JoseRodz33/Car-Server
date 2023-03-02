@@ -12,8 +12,7 @@ const authControllers = require("./controllers/auth");
 const carController = require("./controllers/routes")
 
 // app.use(cors());
-console.log(__dirname)
-app.use(express.static(`${__dirname}/public`))
+
 app.use(express.json());
 app.use("/user", authControllers);
 app.use("/car", carController)
